@@ -1,0 +1,9 @@
+2D
+TODO: x/y axes
+TODO: Sliders
+
+3D
+TODO: x/y axes
+TODO: Sliders
+TODO: light SurfacePlot
+TODO: limited GridLines
